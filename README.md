@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @Unisergius
 - 👀 I’m interested in Information Technologies. As new technologies continue to arrive, I strive to keep me updated with code etiquette and new paradigms.
-- 🌱 I’m currently learning Flutter and new front end technologies.
+- 🌱 I’m currently into learning Startups and how ITs can be used to agilize and scale Startups.
+- 💾 When it comes to technologies, I'm learning Laravel+Livewire, Javascript, Node, NestJS and Flutter.
+- 🌍 I also create small networking events in my local IT community to offer networking and learning activities to anyone interested in.
+- 🤩 Currently, I organize the local freecodecamp sessions in Algarve. I am also part of GDG Faro and Faro Flutter groups. 
 - 💞️ I’m looking to collaborate on Flutter projects and other web development projects
 - 📫 How to reach me, please contact me at unisergius gmail
 
