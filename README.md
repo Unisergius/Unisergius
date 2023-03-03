@@ -4,7 +4,7 @@
 - 💾 When it comes to technologies, I'm learning Laravel+Livewire, Javascript, Node, NestJS and Flutter.
 - 🌍 I also create small networking events in my local IT community to offer networking and learning activities to anyone interested in.
 - 🤩 Currently, I organize the local freecodecamp sessions in Algarve. I am also part of GDG Faro and Faro Flutter groups. 
-- 💞️ I’m looking to collaborate on Flutter projects and other web development projects
+- 💞️ I’m looking to collaborate on packages, APIs, Javascript and Flutter projects.
 - 📫 How to reach me, please contact me at unisergius gmail
 
 <!---
